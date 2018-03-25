@@ -16,7 +16,7 @@ function getQuote() {
         outputQuote = quotes[i].quote;
         outputCharacter = quotes[i].character;
 
-        queryNum = 20;
+        queryNum = 40;
         randomNum = Math.floor(Math.random() * queryNum + 1);
 
         document.getElementById('output').innerHTML = `
