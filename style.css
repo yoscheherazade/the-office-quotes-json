@@ -24,4 +24,14 @@ h1 {
   margin: 2.2rem 2.7rem;
   border: 5px solid black;
   border-radius: 10px;
+  line-height: 1.75rem;
+  font-size: 1.3rem;
+}
+
+img {
+  margin-top: 1.5rem;
+  box-shadow: 10px 10px 49px 0px rgba(0, 0, 0, 0.49);
+  border-radius: 50%;
+  max-height: 300px;
+  width: 200px;
 }
