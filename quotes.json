@@ -21,6 +21,18 @@
     "pic": "<img src='./img/Pam_Beesley.jpg'>"
   },
   {
+    "character": "Michael Scott",
+    "quote":
+      "I'm an early bird and I'm a night owl. So I am wise and I have worms.",
+    "pic": "<img src='./img/Michael_Scott.jpg'>"
+  },
+  {
+    "character": "Pam Beesley",
+    "quote":
+      "There's a lot of beauty in ordinary things. Isn't that kind of the point?",
+    "pic": "<img src='./img/Pam_Beesley.jpg'>"
+  },
+  {
     "character": "Angela Martin",
     "quote": "I find the mystery genre disgusting. I hate being titillated.",
     "pic": "<img src='./img/Angela_Martin.jpg'>"
@@ -47,6 +59,11 @@
     "pic": "<img src='./img/Dwight_.jpg'>"
   },
   {
+    "character": "Dwight Schrute",
+    "quote": "Michael!",
+    "pic": "<img src='./img/Dwight_.jpg'>"
+  },
+  {
     "character": "Andy Bernard",
     "quote":
       "I wish there was a way to know you’re in the good old days, before you’ve actually left them.",
@@ -66,7 +83,49 @@
   {
     "character": "Jim Halpert",
     "quote": "Bears, Beets, Battlestar Galactica.",
-    "pic": "<img src='./img/Jim_.jpg'>"
+    "pic": "<img src='./img/Jim.jpg'>"
+  },
+  {
+    "character": "Jim Halpert",
+    "quote":
+      "I'm going to do something I've never done at this job before - try.",
+    "pic": "<img src='./img/Jim.jpg'>"
+  },
+  {
+    "character": "Jim Halpert",
+    "quote": "I miss Dwight. Congratulations Universe, you win.",
+    "pic": "<img src='./img/Jim.jpg'>"
+  },
+  {
+    "character": "Jim Halpert",
+    "quote":
+      "I bought those boat tickets the day I saw that You Tube video. I knew we'd need a back-up plan. The boat was actually Plan C. The church was Plan B and Plan A was marrying her a long, long time ago. Pretty much the day I met her.",
+    "pic": "<img src='./img/Jim.jpg'>"
+  },
+  {
+    "character": "Dwight Schrute",
+    "quote": "You couldn't handle my undivided attention",
+    "pic": "<img src='./img/Dwight_.jpg'>"
+  },
+  {
+    "character": "Dwight Schrute",
+    "quote": "False.",
+    "pic": "<img src='./img/Dwight_.jpg'>"
+  },
+  {
+    "character": "Jim Halpert",
+    "quote": "Not enough for me? You are everything.",
+    "pic": "<img src='./img/Jim.jpg'>"
+  },
+  {
+    "character": "Jim Halpert",
+    "quote": "Michael will be related to this baby through... delusion.",
+    "pic": "<img src='./img/Jim.jpg'>"
+  },
+  {
+    "character": "Jim Halpert",
+    "quote": "Hey, what has two thumbs and hates Todd Packer? This guy.",
+    "pic": "<img src='./img/Jim.jpg'>"
   },
   {
     "character": "Andy Bernard",
@@ -75,9 +134,32 @@
     "pic": "<img src='./img/Andy_Bernard.jpg'>"
   },
   {
+    "character": "Dwight Schrute",
+    "quote":
+      "I am ready to face any challenge that might be foolish enough to face me.",
+    "pic": "<img src='./img/Dwight_.jpg'>"
+  },
+  {
+    "character": "Michael Scott",
+    "quote":
+      "You know what they say. 'Fool me once, strike one, but fool me twice... strike three'.",
+    "pic": "<img src='./img/Michael_Scott.jpg'>"
+  },
+  {
+    "character": "Michael Scott",
+    "quote": "My mind is going a mile an hour.",
+    "pic": "<img src='./img/Michael_Scott.jpg'>"
+  },
+  {
     "character": "Michael Scott",
     "quote":
       "This is an environment of welcoming and you should just get the hell out of here.",
+    "pic": "<img src='./img/Michael_Scott.jpg'>"
+  },
+  {
+    "character": "Michael Scott",
+    "quote":
+      "New York, New York, the city so nice, they named it twice. Manhattan is the other name.",
     "pic": "<img src='./img/Michael_Scott.jpg'>"
   },
   {
@@ -104,8 +186,57 @@
     "pic": "<img src='./img/Dwight_.jpg'>"
   },
   {
+    "character": "Kevin Malone",
+    "quote": "When I President, they see. They see.",
+    "pic": "<img src='./img/Kevin_Malone.jpg'>"
+  },
+  {
+    "character": "Kelly Kapoor",
+    "quote":
+      "I don't talk trash; I talk smack. They're totally different. Trash talk is all hypothetical, like, 'Your Mama's so fat she could eat the internet', but smack talk is happening like right now, like, 'You're ugly and I know it for a fact 'cause I got the evidence right there.'",
+    "pic": "<img src='./img/Kelly_Kapoor.jpg'>"
+  },
+  {
+    "character": "Kelly Kapoor",
+    "quote": "I talk a lot, so I've learned to tune myself out.",
+    "pic": "<img src='./img/Kelly_Kapoor.jpg'>"
+  },
+  {
+    "character": "Kelly Kapoor",
+    "quote": "I am one of the few people who looks hot eating a cupcake.",
+    "pic": "<img src='./img/Kelly_Kapoor.jpg'>"
+  },
+  {
+    "character": "Kelly Kapoor",
+    "quote": "This day is BANANAS! B-A-N-A-N-A-S!",
+    "pic": "<img src='./img/Kelly_Kapoor.jpg'>"
+  },
+  {
+    "character": "Dwight Schrute",
+    "quote":
+      "Identity theft is not a joke, Jim! Millions of families suffer every year!",
+    "pic": "<img src='./img/Dwight_.jpg'>"
+  },
+  {
     "character": "Stanley Hudson",
     "quote": "Did I stutter?",
+    "pic": "<img src='./img/Stanley_Hudson.jpg'>"
+  },
+  {
+    "character": "Stanley Hudson",
+    "quote":
+      "I wake up every morning in a bed that’s too small, drive my daughter to a school that’s too expensive, and then I go to work to a job for which I get paid too little, but on pretzel day? Well, I like pretzel day..",
+    "pic": "<img src='./img/Stanley_Hudson.jpg'>"
+  },
+  {
+    "character": "Stanley Hudson",
+    "quote":
+      "It's like I used to tell my wife: I do not apologize unless I think I'm wrong, and if you don't like it, you can leave. I say the same thing to my current wife, and I'll say it to my next one too.",
+    "pic": "<img src='./img/Stanley_Hudson.jpg'>"
+  },
+  {
+    "character": "Stanley Hudson",
+    "quote": "Boy, have you lost your mind, 'cause I will help you find it!",
     "pic": "<img src='./img/Stanley_Hudson.jpg'>"
   },
   {
